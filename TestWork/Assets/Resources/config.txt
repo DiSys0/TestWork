@@ -1,0 +1,3 @@
+﻿Адрес сервера: 185.246.65.199
+Порт: 9090
+Адрес видеопотока: http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
